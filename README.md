@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/Zaynmiraj/Zaynmiraj/main/google%20cover.jpg)
 <h1 align="center">Hi 👋, I'm ZaYn Miraj</h1>
-<h3 align="center">A passionate web and app developer dedicated to crafting elegant and efficient digital solutions.</h3>
+<h3 align="center">A passionate senior software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaynmiraj&label=Profile%20views&color=0e75b6&style=flat" alt="zaynmiraj" /> </p>
 
