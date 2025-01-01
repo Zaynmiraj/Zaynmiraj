@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/Zaynmiraj/Zaynmiraj/main/google%20cover.jpg)
 <h1 align="center">Hi 👋, I'm ZaYn Miraj</h1>
-<h3 align="center">A passionate senior software engineer</h3>
+<h3 align="center">A Senior software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaynmiraj&label=Profile%20views&color=0e75b6&style=flat" alt="zaynmiraj" /> </p>
 
@@ -10,13 +10,11 @@
 
 - 🔭 I’m currently working on [PropertyXHub](https://www.propertyxhub.com)
 
-- 🌱 I’m currently learning **Go, Ruby, C#**
+- 🌱 I’m currently learning Machine learning, AI
 
-- 👯 I’m looking to collaborate on [Akronline](https://www.akronlineshop.com)
+- 👯 I’m looking to collaborate on [Acote](https://acotebpo.com/)
 
-- 🤝 I’m looking for help with [Social platform](https://www.freechat.zaynmiraj.online)
-
-- 👨‍💻 All of my projects are available at [https://www.zaynmiraj.online](https://www.zaynmiraj.online)
+- 👨‍💻 All of my projects are available at [https://www.zaynmiraj.online](https://www.zaynmiraj.site)
 
 - 📝 I regularly write articles on [https://zayn37.blogspot.com/](https://zayn37.blogspot.com/)
 
@@ -24,7 +22,7 @@
 
 - 📫 How to reach me **zayn.miraj@gmail.com**
 
-- 📄 Know about my experiences [https://www.zaynmiraj.online](https://www.zaynmiraj.online)
+- 📄 Know about my experiences [https://www.zaynmiraj.site](https://www.zaynmiraj.site)
 
 - ⚡ Fun fact **I am very funny and friendly**
 
