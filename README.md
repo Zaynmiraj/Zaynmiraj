@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Zaynmiraj/Zaynmiraj/main/google%20cover.jpg)
+![banner](https://raw.githubusercontent.com/Zaynmiraj/Zaynmiraj/main/IMG_3674.PNG)
 
 <h1 align="center">Hi 👋, I'm Zayn Miraj</h1>
 <h3 align="center">Senior Software Engineer | Full Stack & Mobile Developer | DevOps Enthusiast</h3>
