@@ -1,92 +1,122 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zaynmiraj/Zaynmiraj/main/IMG_3674.PNG" width="100%" alt="Zayn Miraj profile banner" />
+<img src="https://raw.githubusercontent.com/Zaynmiraj/Zaynmiraj/main/IMG_3674.PNG" width="100%" alt="Zayn Miraj — software engineer" />
 
 # Zayn Miraj
 
 ### Senior Software Engineer · Full-Stack & Mobile Developer · AI Product Engineer
 
-Building reliable web platforms, polished mobile apps, and AI-powered products.
+**I design, build, and ship web platforms, mobile applications, backend systems, and AI-powered products.**
 
-<a href="https://zaynmiraj.com"><img src="https://img.shields.io/badge/Portfolio-zaynmiraj.com-7657E8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:zayn.miraj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/zaynmiraj"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Zaynmiraj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<p>
+<a href="https://zaynmiraj.com"><img src="https://img.shields.io/badge/Portfolio-zaynmiraj.com-7657E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:zayn.miraj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/zaynmiraj"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Zaynmiraj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Zaynmiraj&label=Profile%20views&color=7657E8&style=flat-square" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=8B7CFF&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Mobile+Application+Engineering;React+Native+%7C+Next.js+%7C+Node.js;SaaS+%7C+FinTech+%7C+E-commerce;AI+Agents+%7C+LLMs+%7C+Bengali+Speech+AI" alt="Engineering focus" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Zaynmiraj&label=PROFILE%20VIEWS&color=7657E8&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Zaynmiraj?label=GitHub%20Followers&style=flat-square&color=2563EB" alt="GitHub followers" />
+</p>
 
 </div>
 
 ---
 
-## About
+## 01 — About Me
 
-I'm **Zayn Miraj**, a software engineer with 7+ years of experience building and shipping web applications, Android and iOS apps, backend services, and SaaS products.
+I'm **Zayn Miraj**, a Senior Software Engineer and Full-Stack & Mobile Developer with **7+ years of experience** building and delivering production-ready digital products.
 
-My work spans product engineering from architecture and interface implementation to APIs, databases, integrations, deployment, and app-store releases. I particularly enjoy building useful products, improving developer workflows, and exploring practical applications of AI and speech technology.
+I work across the complete product lifecycle: understanding requirements, designing architecture, building responsive interfaces, developing APIs, integrating databases and third-party services, automating deployments, and publishing applications to Google Play and the Apple App Store.
 
-**Core areas:** Full-stack engineering · React Native · Backend architecture · SaaS · FinTech · E-commerce · AI integrations · DevOps
+My experience covers **SaaS platforms, FinTech, e-commerce, property management, healthcare, productivity, streaming, and AI-powered applications**. I enjoy solving practical engineering problems, creating polished user experiences, and turning product ideas into maintainable software.
 
-## Technical toolkit
+### What I do
 
-<table>
+- **Web engineering:** responsive applications, dashboards, SaaS products, and admin panels.
+- **Mobile engineering:** cross-platform Android and iOS apps using React Native and Expo.
+- **Backend engineering:** API design, authentication, real-time services, integrations, and scalable application architecture.
+- **Data engineering:** relational and NoSQL database design, ORM workflows, and query optimization.
+- **Product delivery:** app-store releases, subscriptions, in-app purchases, push notifications, and CI/CD.
+- **AI engineering:** LLM integrations, AI agents, MCP, RAG, and speech-generation experimentation.
+
+---
+
+## 02 — Technical Expertise
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Frontend & web**
+### Frontend & Web Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,redux" alt="Frontend technologies" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,redux" alt="React, Next.js, Vue, JavaScript, TypeScript, HTML, CSS and Redux" />
+</p>
 
-React · Next.js · Vue · JavaScript · TypeScript · Redux · Zustand
+React.js · Next.js · Vue.js · JavaScript · TypeScript · HTML5 · CSS3 · Redux · Zustand
 
 </td>
 <td width="50%" valign="top">
 
-**Mobile**
+### Mobile Application Development
 
-<img src="https://skillicons.dev/icons?i=react,android,apple,firebase" alt="Mobile technologies" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,android,apple,firebase" alt="React Native, Android, Apple and Firebase" />
+</p>
 
-React Native · Expo · Android · iOS · Firebase · Push notifications · In-app purchases
+React Native · Expo · Android · iOS · Firebase · Push Notifications · In-App Purchases · App Store Connect · Google Play Console
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Backend & APIs**
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,laravel,python,django,fastapi" alt="Backend technologies" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,laravel,python,django,fastapi" alt="Node.js, Express, NestJS, Bun, Laravel, Python, Django and FastAPI" />
+</p>
 
-Node.js · Bun.js · Express · NestJS · Laravel · Python · Django · FastAPI · REST APIs · WebSockets
+Node.js · Bun.js · Express.js · NestJS · Laravel · Python · Django · FastAPI · REST APIs · Authentication · WebSockets
 
 </td>
 <td width="50%" valign="top">
 
-**Data & ORM**
+### Databases & ORM
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma" alt="Database technologies" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma" alt="MongoDB, MySQL, PostgreSQL, Redis and Prisma" />
+</p>
 
-MongoDB · MySQL · PostgreSQL · Redis · Prisma · Sequelize
+MongoDB · MySQL · PostgreSQL · Redis · Prisma ORM · Sequelize
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**DevOps & infrastructure**
+### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,nginx,vercel,aws" alt="DevOps technologies" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,nginx,vercel,aws" alt="Docker, GitHub Actions, Git, Linux, Nginx, Vercel and AWS" />
+</p>
 
-Docker · GitHub Actions · CI/CD · Linux · Nginx · Vercel · AWS · WHM · cPanel
+Docker · Git · GitHub Actions · CI/CD · Linux · Nginx · Vercel · Cloud Infrastructure · WHM · cPanel
 
 </td>
 <td width="50%" valign="top">
 
-**AI & emerging technology**
+### AI & Emerging Technologies
 
-<img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI technologies" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python and PyTorch" />
+</p>
 
-OpenAI API · LLMs · AI agents · MCP · RAG · PyTorch · Text-to-Speech · Speech AI
+OpenAI API · LLM Integration · AI Agents · Model Context Protocol (MCP) · Retrieval-Augmented Generation (RAG) · PyTorch · Text-to-Speech · Machine Learning
 
 </td>
 </tr>
@@ -94,17 +124,15 @@ OpenAI API · LLMs · AI agents · MCP · RAG · PyTorch · Text-to-Speech · Sp
 
 ---
 
-## Selected work
+## 03 — Web Applications & SaaS
 
-### Web applications & SaaS
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://www.google.com/s2/favicons?domain=propertyxhub.com&sz=64" width="28" height="28" alt="PropertyXHub logo" /> **PropertyXHub**
+<p><img src="https://www.google.com/s2/favicons?domain=propertyxhub.com&sz=64" width="32" height="32" alt="PropertyXHub favicon" /> <strong>PropertyXHub</strong></p>
 
-<sub>PROPERTY MANAGEMENT</sub>
+<sub>PROPERTY MANAGEMENT PLATFORM</sub>
 
 Property management and digital real-estate solutions.
 
@@ -113,11 +141,11 @@ Property management and digital real-estate solutions.
 </td>
 <td width="50%" valign="top">
 
-<img src="https://www.google.com/s2/favicons?domain=trustmcl.com&sz=64" width="28" height="28" alt="TrustMCL logo" /> **TrustMCL**
+<p><img src="https://www.google.com/s2/favicons?domain=trustmcl.com&sz=64" width="32" height="32" alt="TrustMCL favicon" /> <strong>TrustMCL</strong></p>
 
-<sub>BUSINESS & INVOICING</sub>
+<sub>BUSINESS & INVOICE MANAGEMENT</sub>
 
-Web-based business invoicing and management software.
+Web-based business invoicing and management application.
 
 [Visit website ↗](https://trustmcl.com)
 
@@ -126,22 +154,22 @@ Web-based business invoicing and management software.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://www.google.com/s2/favicons?domain=dob.com.bd&sz=64" width="28" height="28" alt="DOB Skateshop logo" /> **DOB Skateshop**
+<p><img src="https://www.google.com/s2/favicons?domain=dob.com.bd&sz=64" width="32" height="32" alt="DOB Skateshop favicon" /> <strong>DOB Skateshop</strong></p>
 
-<sub>E-COMMERCE</sub>
+<sub>E-COMMERCE PLATFORM</sub>
 
-Online shopping and mobile-commerce experience.
+Online shopping platform and mobile commerce experience.
 
 [Visit website ↗](https://dob.com.bd)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://www.google.com/s2/favicons?domain=ceaaust.com&sz=64" width="28" height="28" alt="CEA Alumni logo" /> **CEA Alumni**
+<p><img src="https://www.google.com/s2/favicons?domain=ceaaust.com&sz=64" width="32" height="32" alt="CEA Alumni favicon" /> <strong>CEA Alumni</strong></p>
 
-<sub>COMMUNITY & NETWORKING</sub>
+<sub>ALUMNI NETWORKING</sub>
 
-Digital alumni networking and community platform.
+Digital alumni community and networking platform.
 
 [Visit website ↗](https://ceaaust.com)
 
@@ -150,22 +178,22 @@ Digital alumni networking and community platform.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://www.google.com/s2/favicons?domain=akronlineshop.com&sz=64" width="28" height="28" alt="AKR Online Shop logo" /> **AKR Online Shop**
+<p><img src="https://www.google.com/s2/favicons?domain=akronlineshop.com&sz=64" width="32" height="32" alt="AKR Online Shop favicon" /> <strong>AKR Online Shop</strong></p>
 
-<sub>E-COMMERCE</sub>
+<sub>E-COMMERCE PLATFORM</sub>
 
-Online retail and digital shopping platform.
+Online retail and digital shopping experience.
 
 [Visit website ↗](https://akronlineshop.com)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://www.google.com/s2/favicons?domain=penstoke.com&sz=64" width="28" height="28" alt="Penstoke logo" /> **Penstoke**
+<p><img src="https://www.google.com/s2/favicons?domain=penstoke.com&sz=64" width="32" height="32" alt="Penstoke favicon" /> <strong>Penstoke</strong></p>
 
 <sub>SAAS & PRODUCTIVITY</sub>
 
-A productivity-focused SaaS product.
+A productivity-focused SaaS product and digital workflow platform.
 
 [Visit website ↗](https://penstoke.com)
 
@@ -174,18 +202,18 @@ A productivity-focused SaaS product.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://www.google.com/s2/favicons?domain=hubbers.io&sz=64" width="28" height="28" alt="Hubbers logo" /> **Hubbers**
+<p><img src="https://www.google.com/s2/favicons?domain=hubbers.io&sz=64" width="32" height="32" alt="Hubbers favicon" /> <strong>Hubbers</strong></p>
 
 <sub>INNOVATION ECOSYSTEM</sub>
 
-Innovation and product-development ecosystem.
+An innovation and product-development ecosystem.
 
 [Visit website ↗](https://hubbers.io)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://www.google.com/s2/favicons?domain=acusolo.net&sz=64" width="28" height="28" alt="AcuSolo logo" /> **AcuSolo**
+<p><img src="https://www.google.com/s2/favicons?domain=acusolo.net&sz=64" width="32" height="32" alt="AcuSolo favicon" /> <strong>AcuSolo</strong></p>
 
 <sub>HEALTH & WELLNESS</sub>
 
@@ -197,41 +225,58 @@ Connected wellness and guided acupressure experience.
 </tr>
 </table>
 
-### Mobile applications
+### Additional product & client engineering
 
-> App icons are stored in this repository under `assets/apps/`. Run `node scripts/fetch-app-icons.mjs` after adding the package IDs below. This keeps icons under your control instead of relying on temporary image hosts.
+Alongside the public websites above, my engineering work has included products and platforms across streaming, healthcare, and payment technology:
 
-<table>
+| Project | Area | Engineering focus |
+|---|---|---|
+| Everyreels | OTT & video streaming | Mobile product development, backend APIs, content and subscription workflows |
+| PaymentX | FinTech & payments | Payment integrations and mobile payment experiences |
+| BMHealth | Healthcare technology | Healthcare application development |
+| Dripo | Digital product | Application development and product engineering |
+
+---
+
+## 04 — Mobile Applications & Digital Products
+
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="./assets/apps/typemate.png" width="76" height="76" alt="TypeMate AI app icon" />
+<img src="https://play-lh.googleusercontent.com/z4i8msoqJ0VzdrM8NsAgv-Dv-81z8XsCQ4W7LH84MY6Gp3NR5wL7SVLug8v-zVYJQDrfabQAQofBM41mtTlaQg=w240-h480" width="76" height="76" alt="TypeMate AI app icon" />
 
 **TypeMate AI**
 
 <sub>AI KEYBOARD</sub>
+
+Multilingual AI keyboard with an integrated AI assistant and intelligent writing tools.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.typemate.ai) · [App Store](https://apps.apple.com/us/app/typemate-ai-keyboard/id6824185770)
 
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="./assets/apps/notecalc.png" width="76" height="76" alt="NoteCalc Pro app icon" />
+<img src="https://play-lh.googleusercontent.com/_OggRy4wcYiHqCK2siJ82FbIvcTpqsQgLm9qqJO0mtYwAKlCxco-c4aV_De3cq-YPxBgqv13C1roPj2X01dLDg=w240-h480" width="76" height="76" alt="NoteCalc Pro app icon" />
 
 **NoteCalc Pro**
 
 <sub>SMART NOTES & CALCULATOR</sub>
+
+Smart notes and calculator productivity application.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.zaynmiraj.calmaster) · [App Store](https://apps.apple.com/app/notecalc-pro-al-smart-notes/id6828314694)
 
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="./assets/apps/safiora.png" width="76" height="76" alt="Safiora VPN app icon" />
+<img src="https://play-lh.googleusercontent.com/po4nV9nEYcTgED9XS-UqlkQkX9UhrVH_pPdE1_Wp29mG-3v_PslX-13xjK_NzsepdWe8-WYrU-KNzwuBdohumuM=w240-h480" width="76" height="76" alt="Safiora VPN app icon" />
 
 **Safiora VPN**
 
 <sub>PRIVACY & SECURITY</sub>
+
+VPN application built around WireGuard technology.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.safiora.vpn)
 
@@ -240,33 +285,39 @@ Connected wellness and guided acupressure experience.
 <tr>
 <td align="center" valign="top">
 
-<img src="./assets/apps/sportsnest.png" width="76" height="76" alt="SportsNest app icon" />
+<img src="https://play-lh.googleusercontent.com/g14ksCh1iZdDrFx8qbd56202UhQ3E3durL4bT8qoeL1F1B5fTZSJKfXD0lD6e4oSrqdq85fpBjhuc6u4rXymmNo=w240-h480" width="76" height="76" alt="SportsNest app icon" />
 
 **SportsNest**
 
 <sub>LIVE TV & SPORTS</sub>
+
+Live TV and sports streaming application.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.sportsnest.app)
 
 </td>
 <td align="center" valign="top">
 
-<img src="./assets/apps/ai-utility-hub.png" width="76" height="76" alt="AI Utility Hub app icon" />
+<img src="https://play-lh.googleusercontent.com/jLXmdY9lnlPVP8gPW_8eBLbVnN1Vnvh3VPXgOeECP0hitowkHgvG_hzR4WFxqxQoQHiNs17XSJ_veQ8Nj7T2=w240-h480" width="76" height="76" alt="AI Utility Hub app icon" />
 
 **AI Utility Hub**
 
 <sub>AI PRODUCTIVITY</sub>
+
+AI-powered productivity and utility application.
 
 [Website](https://aiutilityhub.nimions.com)
 
 </td>
 <td align="center" valign="top">
 
-<img src="./assets/apps/helpsnest.png" width="76" height="76" alt="HelpsNest app icon" />
+<img src="https://play-lh.googleusercontent.com/TlWWdhf-D-341-7AJmqmI0URc5Kq4onviuRyAuyYh9bNmnWM-d6sQkzDJf4vGmBO8FHHMcM0BQzLynILY9JT=w240-h480" width="76" height="76" alt="HelpsNest app icon" />
 
 **HelpsNest**
 
-<sub>HEALTH & COMMUNITY</sub>
+<sub>HEALTHCARE & COMMUNITY</sub>
+
+Blood donation, doctor and hospital information, and emergency resources.
 
 [Website](https://helpsnest.nimions.com/)
 
@@ -275,55 +326,65 @@ Connected wellness and guided acupressure experience.
 <tr>
 <td align="center" valign="top">
 
-<img src="./assets/apps/payx-hub.png" width="76" height="76" alt="PayX Hub app icon" />
+<img src="https://play-lh.googleusercontent.com/XkxHnbofBsE2W8HFGvzaR73p4W2LP9UJqxwyvXwlFjfnIhgj8CVNn4RiTgqwrWSZoMRseh_cbkhm7OK8SSCFKCo=w240-h480" width="76" height="76" alt="PayX Hub app icon" />
 
 **PayX Hub**
 
-<sub>TAP-TO-PAY</sub>
+<sub>TAP-TO-PAY · FINTECH</sub>
+
+Mobile tap-to-pay application.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.saithy.paymentxhub)
 
 </td>
 <td align="center" valign="top">
 
-<img src="./assets/apps/payx-bic.png" width="76" height="76" alt="PayX BIC app icon" />
+<img src="https://play-lh.googleusercontent.com/DuSNDZRdMxYgu8NlIc0LRZJVMRrJdAOq3DR2GXsUPl3O85jvkivtM74-CURsbJsfFwg=w240-h480" width="76" height="76" alt="PayX BIC app icon" />
 
 **PayX BIC**
 
-<sub>FINTECH</sub>
+<sub>FINTECH · WHITE-LABEL</sub>
+
+White-label mobile payment application.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.paymentx.bic)
 
 </td>
 <td align="center" valign="top">
 
-<img src="./assets/apps/invoice-maker.png" width="76" height="76" alt="Invoice Maker app icon" />
+
 
 **Invoice Maker**
 
 <sub>INVOICE MANAGEMENT</sub>
 
-[App Store](https://apps.apple.com/om/app/best-invoice/id6736941437)
+iOS invoice creation and management application.
+
+[Apple App Store](https://apps.apple.com/om/app/best-invoice/id6736941437)
 
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
 
-<img src="./assets/apps/flatly.png" width="76" height="76" alt="Flatly app icon" />
+<img src="https://play-lh.googleusercontent.com/Nim8MA4JWbXSSP3764kaJt0AZ5tQM6MZHvw4yN6lwq70cRYnEYKsJ7aatVzLHc7J_PeHB_7c6sstlNHaLN76=w240-h480" width="76" height="76" alt="Flatly app icon" />
 
 **Flatly**
 
 <sub>SHARED LIVING</sub>
+
+Mobile application for shared living.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.flatly)
 
 </td>
 <td colspan="2" valign="middle">
 
-**More product work**
+**More digital products**
 
-Explore my [portfolio](https://zaynmiraj.com) for additional projects, product work, and case studies.
+I have also contributed to additional client applications and white-label mobile products across different industries.
+
+Explore [my portfolio](https://zaynmiraj.com) for more selected work.
 
 </td>
 </tr>
@@ -331,74 +392,154 @@ Explore my [portfolio](https://zaynmiraj.com) for additional projects, product w
 
 ---
 
-## Open source & developer tools
+## 05 — Open Source & NPM Packages
 
-I publish JavaScript and React Native utilities, CLI tools, and reusable developer packages.
+I create developer tools and reusable packages to simplify application setup and everyday engineering workflows.
 
-| Package | What it does |
-|---|---|
-| [nim-redux-cli](https://www.npmjs.com/package/nim-redux-cli) | Scaffolds Redux Toolkit / RTK Query setup |
-| [nim-nodex-init](https://www.npmjs.com/package/nim-nodex-init) | Scaffolds Node.js and Express applications |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-[Explore my NPM profile ↗](https://www.npmjs.com/~zaynmiraj)
+### `nim-redux-cli`
+
+Project-aware CLI for scaffolding Redux Toolkit, RTK Query, or reducer-based state management in supported JavaScript projects.
+
+<a href="https://www.npmjs.com/package/nim-redux-cli"><img src="https://img.shields.io/npm/v/nim-redux-cli?style=flat-square&logo=npm&label=version" alt="nim-redux-cli npm version" /></a>
+<a href="https://www.npmjs.com/package/nim-redux-cli"><img src="https://img.shields.io/npm/dm/nim-redux-cli?style=flat-square&label=monthly%20downloads" alt="nim-redux-cli monthly downloads" /></a>
+
+[View package & installation ↗](https://www.npmjs.com/package/nim-redux-cli)
+
+</td>
+<td width="50%" valign="top">
+
+### `nim-nodex-init`
+
+CLI scaffolding tool for creating Node.js and Express application foundations.
+
+<a href="https://www.npmjs.com/package/nim-nodex-init"><img src="https://img.shields.io/npm/v/nim-nodex-init?style=flat-square&logo=npm&label=version" alt="nim-nodex-init npm version" /></a>
+<a href="https://www.npmjs.com/package/nim-nodex-init"><img src="https://img.shields.io/npm/dm/nim-nodex-init?style=flat-square&label=monthly%20downloads" alt="nim-nodex-init monthly downloads" /></a>
+
+[View package & installation ↗](https://www.npmjs.com/package/nim-nodex-init)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://www.npmjs.com/~zaynmiraj"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20NPM%20PACKAGES-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Explore NPM packages" /></a>
+</p>
 
 ---
 
-## AI research
+## 06 — AI Research & Machine Learning
 
-### KonthoVoice — Bengali text-to-speech
+### KonthoVoice — Bengali Text-to-Speech
 
-KonthoVoice is a Bengali speech-synthesis project built around the CosyVoice 3 architecture. It explores Bengali text-to-speech, speech-model experimentation, audio processing, and model components.
+<p align="center">
+<img src="https://img.shields.io/badge/PROJECT-BENGALI%20SPEECH%20AI-7657E8?style=flat-square" />
+<img src="https://img.shields.io/badge/BASE-COSYVOICE%203-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/PLATFORM-HUGGING%20FACE-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
 
-- Bengali (`bn`) text-to-speech generation
-- CosyVoice 3-based speech synthesis
-- PyTorch and speech-model experimentation
-- Audio processing and speech datasets
-- ONNX-based model components
+**KonthoVoice** is a Bengali speech-synthesis project developed under Nimions, extending the CosyVoice 3 architecture for Bengali text-to-speech experimentation.
+
+**Research and engineering focus**
+
+- Bengali (`bn`) text-to-speech generation.
+- CosyVoice 3-based speech synthesis.
+- PyTorch and speech-model development.
+- Audio processing and speech datasets.
+- ONNX-based model components.
+- Bengali speech applications and accessibility.
 
 **Base model:** `FunAudioLLM/Fun-CosyVoice3-0.5B`  
 **Model license:** CC BY-SA 4.0
 
-[Explore KonthoVoice on Hugging Face ↗](https://huggingface.co/zaynmiraj/konthovoice-tts)
+<p align="center">
+<a href="https://huggingface.co/zaynmiraj/konthovoice-tts"><img src="https://img.shields.io/badge/Explore%20KonthoVoice-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="KonthoVoice model" /></a>
+<a href="https://huggingface.co/zaynmiraj"><img src="https://img.shields.io/badge/Model%20Profile-Hugging%20Face-7657E8?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face profile" /></a>
+</p>
+
+### Other AI interests
+
+| Area | Technologies & focus |
+|---|---|
+| LLM Engineering | OpenAI API and LLM integrations |
+| AI Agents | Tool calling, agent workflows, and automation |
+| MCP | Model Context Protocol and integrations |
+| RAG | Retrieval-Augmented Generation |
+| Speech AI | Text-to-Speech and speech synthesis |
+| Machine Learning | PyTorch and model experimentation |
+| AI Applications | Intelligent web and mobile products |
 
 ---
 
-## GitHub analytics
+## 07 — GitHub Analytics
 
 <div align="center">
 
-<sub>PUBLIC REPOSITORY METRICS · COMPACT VIEW</sub>
+<sub>PUBLIC REPOSITORY STATISTICS · LANGUAGE DISTRIBUTION · CONTRIBUTION ACTIVITY</sub>
 
 <a href="https://github.com/Zaynmiraj">
-<img height="145" src="https://github-stats-extended.vercel.app/api?username=Zaynmiraj&show_icons=true&hide_border=true&theme=transparent&title_color=8B7CFF&icon_color=8B7CFF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub statistics for Zayn Miraj" />
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=Zaynmiraj&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B7CFF&icon_color=8B7CFF&text_color=C9D1D9&rank_icon=github" alt="Zayn Miraj GitHub statistics" />
 </a>
 <a href="https://github.com/Zaynmiraj">
-<img height="145" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zaynmiraj&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=8B7CFF&text_color=C9D1D9&bg_color=0D1117" alt="Most used languages" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynmiraj&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=8B7CFF&text_color=C9D1D9" alt="Most used programming languages" />
 </a>
 
+<br />
+
 <a href="https://github.com/Zaynmiraj">
-<img height="110" src="https://streak-stats.demolab.com?user=Zaynmiraj&theme=transparent&hide_border=true&background=0D1117&ring=8B7CFF&fire=8B7CFF&currStreakLabel=8B7CFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+<img height="125" src="https://streak-stats.demolab.com?user=Zaynmiraj&theme=transparent&hide_border=true&background=0D1117&ring=8B7CFF&fire=8B7CFF&currStreakLabel=8B7CFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</a>
+
+<br />
+
+<a href="https://github.com/Zaynmiraj">
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynmiraj&bg_color=0D1117&color=C9D1D9&line=8B7CFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</a>
+
+<br />
+
+<a href="https://github.com/Zaynmiraj">
+<img src="https://github-profile-trophy.vercel.app/?username=Zaynmiraj&theme=onestar&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" alt="GitHub profile trophies" />
 </a>
 
 </div>
 
-*Stats and language cards reflect public GitHub repository data. External card services can occasionally be unavailable; the profile's native contribution graph remains available on GitHub.*
+<p align="center">
+<a href="https://github.com/Zaynmiraj?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+</p>
 
 ---
 
-## Connect
+## 08 — Currently Exploring
+
+- Advanced iOS development and native mobile experiences.
+- AI-powered application architecture.
+- Large Language Models and agentic systems.
+- Model Context Protocol (MCP).
+- Retrieval-Augmented Generation (RAG).
+- Bengali speech synthesis and custom TTS models.
+- Scalable SaaS and multi-tenant platforms.
+- Developer experience and open-source tooling.
+
+---
+
+## 09 — Connect & Follow My Work
 
 <div align="center">
 
-<a href="https://zaynmiraj.com"><img src="https://img.shields.io/badge/Website-7657E8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/zaynmiraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://facebook.com/fedumiraj"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-<a href="https://instagram.com/zynmiraj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/zayn_miraj"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://www.npmjs.com/~zaynmiraj"><img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
-<a href="https://huggingface.co/zaynmiraj"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>
+**LET'S CONNECT · COLLABORATE · BUILD SOMETHING GREAT**
 
-**Have a product or engineering challenge?** [Let's connect](mailto:zayn.miraj@gmail.com).
+<a href="https://zaynmiraj.com"><img src="https://img.shields.io/badge/WEBSITE-zaynmiraj.com-7657E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
+<a href="https://linkedin.com/in/zaynmiraj"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://facebook.com/fedumiraj"><img src="https://img.shields.io/badge/FACEBOOK-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/zynmiraj"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://twitter.com/zayn_miraj"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.npmjs.com/~zaynmiraj"><img src="https://img.shields.io/badge/NPM-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
+<a href="https://huggingface.co/zaynmiraj"><img src="https://img.shields.io/badge/HUGGING%20FACE-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+<a href="mailto:zayn.miraj@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -406,6 +547,12 @@ KonthoVoice is a Bengali speech-synthesis project built around the CosyVoice 3 a
 
 <div align="center">
 
-*Build thoughtfully. Ship reliably. Keep learning.*
+### BUILDING PRODUCTS · SOLVING PROBLEMS · ENGINEERING THE FUTURE
+
+*Great software is thoughtfully engineered, beautifully designed, and reliably delivered.*
+
+**Zayn Miraj** · Senior Software Engineer
+
+<sub>Software Engineer · Full-Stack Developer · React Native Developer · Mobile App Developer · Next.js Developer · Node.js Developer · AI Application Developer · Bangladesh</sub>
 
 </div>
