@@ -126,6 +126,77 @@ OpenAI API · LLMs · MCP · RAG · AI Agents · Speech AI · TTS · Machine Lea
 
 ---
 
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <sub>MY OPEN-SOURCE JOURNEY · CONTRIBUTIONS · ENGINEERING ACTIVITY</sub>
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Zaynmiraj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"
+  width="100%"
+  alt="Zayn Miraj GitHub Statistics"
+/>
+
+</td>
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynmiraj&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+  width="100%"
+  alt="Most Used Programming Languages"
+/>
+
+</td>
+</tr>
+</table>
+
+### Contribution Streak
+
+<p align="center">
+<img
+  src="https://streak-stats.demolab.com?user=Zaynmiraj&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E"
+  width="100%"
+  alt="GitHub Contribution Streak"
+/>
+</p>
+
+### Contribution Activity
+
+<p align="center">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynmiraj&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub Contribution Activity Graph"
+/>
+</p>
+
+### GitHub Achievements
+
+<p align="center">
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Zaynmiraj&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+  width="100%"
+  alt="GitHub Profile Trophies"
+/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Zaynmiraj?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+
 ## Selected Projects
 
 Building digital products across FinTech, SaaS, e-commerce, healthcare, productivity, and entertainment.
@@ -136,7 +207,10 @@ Building digital products across FinTech, SaaS, e-commerce, healthcare, producti
 <tr>
 <td width="50%" valign="top">
 
-### PropertyXHub
+<p>
+<img src="https://www.google.com/s2/favicons?domain=propertyxhub.com&sz=128" width="48" height="48" align="absmiddle" />
+<strong> PropertyXHub</strong>
+</p>
 
 <sub>PROPERTY MANAGEMENT</sub>
 
@@ -147,7 +221,10 @@ Property management and digital real estate solutions.
 </td>
 <td width="50%" valign="top">
 
-### TrustMCL
+<p>
+<img src="https://www.google.com/s2/favicons?domain=trustmcl.com&sz=128" width="48" height="48" align="absmiddle" />
+<strong> TrustMCL</strong>
+</p>
 
 <sub>BUSINESS & FINANCIAL SOFTWARE</sub>
 
@@ -160,7 +237,10 @@ Web-based business invoicing and management application.
 <tr>
 <td width="50%" valign="top">
 
-### DOB Skateshop
+<p>
+<img src="https://www.google.com/s2/favicons?domain=dob.com.bd&sz=128" width="48" height="48" align="absmiddle" />
+<strong> DOB Skateshop</strong>
+</p>
 
 <sub>E-COMMERCE</sub>
 
@@ -171,7 +251,10 @@ Online shopping platform and mobile commerce experience.
 </td>
 <td width="50%" valign="top">
 
-### CEA Alumni
+<p>
+<img src="https://www.google.com/s2/favicons?domain=ceaaust.com&sz=128" width="48" height="48" align="absmiddle" />
+<strong> CEA Alumni</strong>
+</p>
 
 <sub>COMMUNITY & NETWORKING</sub>
 
@@ -184,7 +267,10 @@ Digital alumni networking and community platform.
 <tr>
 <td width="50%" valign="top">
 
-### AKR Online Shop
+<p>
+<img src="https://www.google.com/s2/favicons?domain=akronlineshop.com&sz=128" width="48" height="48" align="absmiddle" />
+<strong> AKR Online Shop</strong>
+</p>
 
 <sub>E-COMMERCE</sub>
 
@@ -195,11 +281,14 @@ Online retail and digital shopping platform.
 </td>
 <td width="50%" valign="top">
 
-### Penstoke
+<p>
+<img src="https://www.google.com/s2/favicons?domain=penstoke.com&sz=128" width="48" height="48" align="absmiddle" />
+<strong> Penstoke</strong>
+</p>
 
 <sub>SAAS & PRODUCTIVITY</sub>
 
-A SaaS product focused on productivity and digital workflows.
+A productivity-focused SaaS platform.
 
 <a href="https://penstoke.com">↗ Explore Project</a>
 
@@ -208,22 +297,28 @@ A SaaS product focused on productivity and digital workflows.
 <tr>
 <td width="50%" valign="top">
 
-### Hubbers
+<p>
+<img src="https://www.google.com/s2/favicons?domain=hubbers.io&sz=128" width="48" height="48" align="absmiddle" />
+<strong> Hubbers</strong>
+</p>
 
-<sub>INNOVATION & SAAS ECOSYSTEM</sub>
+<sub>INNOVATION ECOSYSTEM</sub>
 
-A global innovation ecosystem featuring AI-powered tools, communities, expert marketplace, and product development services.
+Innovation, entrepreneurship, and digital product ecosystem.
 
 <a href="https://hubbers.io">↗ Explore Project</a>
 
 </td>
 <td width="50%" valign="top">
 
-### AcuSolo
+<p>
+<img src="https://www.google.com/s2/favicons?domain=acusolo.net&sz=128" width="48" height="48" align="absmiddle" />
+<strong> AcuSolo</strong>
+</p>
 
-<sub>HEALTH & WELLNESS TECHNOLOGY</sub>
+<sub>HEALTH & WELLNESS</sub>
 
-A connected wellness application featuring guided acupressure programs and personalized digital experiences.
+Connected wellness and guided acupressure application.
 
 <a href="https://acusolo.net">↗ Explore Project</a>
 
@@ -231,142 +326,129 @@ A connected wellness application featuring guided acupressure programs and perso
 </tr>
 </table>
 
-### Mobile Applications
+
+## Mobile Applications & Digital Products
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### TypeMate AI Keyboard
+<a href="https://play.google.com/store/apps/details?id=com.typemate.ai">
+<img src="./assets/apps/typemate.png" width="112" height="112" alt="TypeMate AI"/>
+</a>
 
-<sub>AI · PRODUCTIVITY · MOBILE</sub>
+### TypeMate AI
 
-Multilingual AI keyboard with an integrated AI assistant and intelligent writing features.
+AI Keyboard
 
-**Platforms:** Android · iOS
-
-<a href="https://typemate.nimions.com">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.typemate.ai">Android</a> · <a href="https://apps.apple.com/us/app/typemate-ai-keyboard/id6824185770">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.typemate.ai">Google Play</a> · <a href="https://apps.apple.com/us/app/typemate-ai-keyboard/id6824185770">App Store</a>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
+
+<a href="https://play.google.com/store/apps/details?id=com.zaynmiraj.calmaster">
+<img src="./assets/apps/notecalc.png" width="112" height="112" alt="NoteCalc Pro"/>
+</a>
 
 ### NoteCalc Pro
 
-<sub>PRODUCTIVITY · SMART NOTES</sub>
+Smart Notes & Calculator
 
-Smart calculator and note-taking application.
-
-**Platforms:** Android · iOS
-
-<a href="https://notecalc.nimions.com">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.zaynmiraj.calmaster">Android</a> · <a href="https://apps.apple.com/app/notecalc-pro-al-smart-notes/id6828314694">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.zaynmiraj.calmaster">Google Play</a> · <a href="https://apps.apple.com/app/notecalc-pro-al-smart-notes/id6828314694">App Store</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
+
+<a href="https://play.google.com/store/apps/details?id=com.safiora.vpn">
+<img src="./assets/apps/safiora.png" width="112" height="112" alt="Safiora VPN"/>
+</a>
 
 ### Safiora VPN
 
-<sub>VPN · PRIVACY · NETWORKING</sub>
-
-Mobile VPN application powered by WireGuard technology.
-
-**Platform:** Android
+Privacy & Security
 
 <a href="https://play.google.com/store/apps/details?id=com.safiora.vpn">Google Play</a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td align="center">
+
+<a href="https://play.google.com/store/apps/details?id=com.sportsnest.app">
+<img src="./assets/apps/sportsnest.png" width="112" height="112" alt="SportsNest"/>
+</a>
 
 ### SportsNest
 
-<sub>STREAMING · ENTERTAINMENT</sub>
-
-Live sports and television streaming application.
-
-**Platform:** Android
+Live TV & Sports
 
 <a href="https://play.google.com/store/apps/details?id=com.sportsnest.app">Google Play</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center">
 
-### HelpsNest
-
-<sub>HEALTHCARE · COMMUNITY</sub>
-
-Utility platform for blood donation, doctor discovery, hospitals, and emergency information.
-
-<a href="https://helpsnest.nimions.com">Website</a>
-
-</td>
-<td width="50%" valign="top">
+<a href="https://play.google.com/store/apps/details?id=com.nimions.utilityhub">
+<img src="./assets/apps/ai-utility-hub.png" width="112" height="112" alt="AI Utility Hub"/>
+</a>
 
 ### AI Utility Hub
 
-<sub>ARTIFICIAL INTELLIGENCE</sub>
+AI Productivity
 
-AI-powered productivity and utility application.
+<a href="https://play.google.com/store/apps/details?id=com.nimions.utilityhub">Google Play</a>
 
-<a href="https://aiutilityhub.nimions.com">Website</a>
+</td>
+<td align="center">
+
+<a href="https://play.google.com/store/apps/details?id=com.helpsnest.community">
+<img src="./assets/apps/helpsnest.png" width="112" height="112" alt="HelpsNest"/>
+</a>
+
+### HelpsNest
+
+Healthcare & Community
+
+<a href="https://play.google.com/store/apps/details?id=com.helpsnest.community">Google Play</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center">
+
+<img src="./assets/apps/flatly.png" width="112" height="112" alt="Flatly"/>
 
 ### Flatly
 
-<sub>LIFESTYLE · MOBILE APPLICATION</sub>
+Shared Living
 
-Shared living application for household expenses, chores, schedules, and reminders.
-
-**Platforms:** Android · iOS
-
-<a href="https://play.google.com/store/apps/details?id=com.myflatly.flatly">Android</a> · <a href="https://apps.apple.com/nz/app/flatly-digital-head-tenant/id6752268806">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.myflatly.flatly">Google Play</a>
 
 </td>
-<td width="50%" valign="top">
+<td align="center">
 
-### AcuSolo App
-
-<sub>HEALTH · WELLNESS · MOBILE</sub>
-
-Mobile companion for guided wellness and personalized acupressure programs.
-
-**Platforms:** Android · iOS
-
-<a href="https://play.google.com/store/apps/details?id=com.acusolo">Android</a> · <a href="https://apps.apple.com/app/id6752572113">iOS</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/apps/payx.png" width="112" height="112" alt="PayX Hub"/>
 
 ### PayX Hub
 
-<sub>FINTECH · CONTACTLESS PAYMENTS</sub>
+Tap-to-Pay
 
-Mobile payment solution with Tap-to-Pay functionality.
-
-<a href="https://payx.org.uk">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.saithy.paymentxhub">Android</a>
+<a href="https://play.google.com/store/apps/details?id=com.saithy.paymentxhub">Google Play</a>
 
 </td>
-<td width="50%" valign="top">
+<td align="center">
+
+<img src="./assets/apps/payx-bic.png" width="112" height="112" alt="PayX BIC"/>
 
 ### PayX BIC
 
-<sub>FINTECH · WHITE-LABEL</sub>
-
-White-label mobile payment application.
+FinTech
 
 <a href="https://play.google.com/store/apps/details?id=com.paymentx.bic">Google Play</a>
 
 </td>
 </tr>
 </table>
+
 
 ### Additional Mobile Product
 
