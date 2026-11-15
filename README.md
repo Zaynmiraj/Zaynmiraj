@@ -491,40 +491,65 @@ CLI scaffolding tool for creating Node.js and Express application foundations.
 
 ## 07 — GitHub Analytics
 
+
+
+<!-- 07 — GITHUB ANALYTICS -->
+
+<h2>07 — GitHub Analytics</h2>
+<p><sub>OPEN SOURCE · CONTRIBUTIONS · ENGINEERING ACTIVITY</sub></p>
+
 <div align="center">
 
-<sub>PUBLIC REPOSITORY STATISTICS · LANGUAGE DISTRIBUTION · CONTRIBUTION ACTIVITY</sub>
-
+<!-- GITHUB STATS -->
 <a href="https://github.com/Zaynmiraj">
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=Zaynmiraj&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B7CFF&icon_color=8B7CFF&text_color=C9D1D9&rank_icon=github" alt="Zayn Miraj GitHub statistics" />
+<img height="125"
+src="https://github-readme-stats.vercel.app/api?username=Zaynmiraj&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&bg_color=0D1117&title_color=FF8C42&icon_color=FF6B35&text_color=D1D5DB"
+alt="GitHub Statistics"/>
 </a>
 <a href="https://github.com/Zaynmiraj">
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynmiraj&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=8B7CFF&text_color=C9D1D9" alt="Most used programming languages" />
+<img height="125"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynmiraj&layout=compact&langs_count=5&hide_border=true&bg_color=0D1117&title_color=FF8C42&text_color=D1D5DB"
+alt="Programming Languages"/>
 </a>
 
-<br />
+<br/>
 
+<!-- FIRE CONTRIBUTION STREAK -->
 <a href="https://github.com/Zaynmiraj">
-<img height="125" src="https://streak-stats.demolab.com?user=Zaynmiraj&theme=transparent&hide_border=true&background=0D1117&ring=8B7CFF&fire=8B7CFF&currStreakLabel=8B7CFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+<img width="48%"
+src="https://streak-stats.demolab.com?user=Zaynmiraj&theme=dark&hide_border=true&background=0D1117&ring=FF4500&fire=FF6B35&currStreakLabel=FF8C42&sideLabels=FFB86B&dates=929292&currStreakNum=FFD166&sideNums=FFD166"
+alt="GitHub Fire Contribution Streak"/>
 </a>
 
-<br />
+<br/>
 
+<!-- CONTRIBUTION ACTIVITY -->
 <a href="https://github.com/Zaynmiraj">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynmiraj&bg_color=0D1117&color=C9D1D9&line=8B7CFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="92%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynmiraj&bg_color=0D1117&color=FFB86B&line=FF6B35&point=FFD166&area=true&area_color=FF4500&hide_border=true&custom_title=Contribution%20Activity"
+alt="GitHub Contribution Graph"/>
 </a>
 
-<br />
+<br/>
 
+<!-- TROPHIES -->
 <a href="https://github.com/Zaynmiraj">
-<img src="https://github-profile-trophy.vercel.app/?username=Zaynmiraj&theme=onestar&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" alt="GitHub profile trophies" />
+<img width="82%"
+src="https://github-profile-trophy.vercel.app/?username=Zaynmiraj&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"
+alt="GitHub Achievements"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Zaynmiraj?tab=repositories">
+<img src="https://img.shields.io/badge/🔥_EXPLORE_REPOSITORIES-252525?style=for-the-badge&logo=github&logoColor=white"
+alt="Explore repositories"/>
 </a>
 
 </div>
 
-<p align="center">
-<a href="https://github.com/Zaynmiraj?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-</p>
+<hr/>
+
 
 ---
 
