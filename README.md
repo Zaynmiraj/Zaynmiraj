@@ -1,135 +1,208 @@
-![banner](https://raw.githubusercontent.com/Zaynmiraj/Zaynmiraj/main/IMG_3674.PNG)
+![Profile Banner](https://raw.githubusercontent.com/Zaynmiraj/Zaynmiraj/main/IMG_3674.PNG)
 
-<h1 align="center">Hi 👋, I'm Zayn Miraj</h1>
-<h3 align="center">Senior Software Engineer | Full Stack & Mobile Developer | DevOps Enthusiast</h3>
+<h1 align="center">Zayn Miraj</h1>
+
+<h3 align="center">Senior Software Engineer · Full-Stack & Mobile Developer · AI Product Builder</h3>
 
 <p align="center">
-  <a href="https://zaynmiraj.com" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:zayn.miraj@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/zaynmiraj" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://twitter.com/zayn_miraj" target="_blank">🐦 Twitter</a>
+  <a href="https://zaynmiraj.com">Portfolio</a> •
+  <a href="mailto:zayn.miraj@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/zaynmiraj">LinkedIn</a> •
+  <a href="https://github.com/Zaynmiraj">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zaynmiraj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Zaynmiraj&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate Full Stack & Mobile Developer with 7+ years of experience building scalable web and mobile solutions. I specialize in MERN, Laravel, and Python/Django stacks, and have deployed apps to Play Store and App Store. I love shipping clean code, building fast UIs, automating deployments, and exploring AI/ML in my spare time.
+I'm **Zayn Miraj**, a Senior Software Engineer and Full-Stack & Mobile Application Developer with 7+ years of experience designing, developing, and shipping digital products.
 
-<table width="100%">
-<tr>
-  <td valign="top" width="50%">
+I specialize in building scalable web applications, cross-platform mobile apps, backend systems, SaaS platforms, and AI-powered products.
 
-## 🧰 Tech Toolbox
+My expertise spans the complete software development lifecycle — from product architecture and UI/UX implementation to backend engineering, database optimization, API integrations, deployment, and application publishing.
 
-<table>
-<tr>
-  <td><b>Frontend</b></td>
-  <td>React.js, Next.js, Tailwind CSS, Redux, Zustand</td>
-</tr>
-<tr>
-  <td><b>Backend</b></td>
-  <td>Node.js, Express.js, NestJS, Laravel, Django, FastAPI</td>
-</tr>
-<tr>
-  <td><b>Mobile</b></td>
-  <td>React Native, Firebase, App Store, Play Store</td>
-</tr>
-<tr>
-  <td><b>Database</b></td>
-  <td>MongoDB, MySQL, PostgreSQL</td>
-</tr>
-<tr>
-  <td><b>DevOps</b></td>
-  <td>Docker, GitHub Actions, WHM, cPanel</td>
-</tr>
-<tr>
-  <td><b>Learning</b></td>
-  <td>Machine Learning, AI/ML, OpenAI API</td>
-</tr>
-</table>
+Over the years, I've worked on multiple commercial products, e-commerce platforms, payment solutions, OTT applications, productivity tools, and AI-powered applications across different industries.
 
-  </td>
-  <td valign="top" width="50%">
+**What I enjoy building:**
 
-## 🔥 Highlighted Projects
+- Scalable web applications and SaaS platforms.
+- High-performance Android and iOS applications.
+- Modern user interfaces with exceptional user experiences.
+- REST APIs, backend architectures, and database systems.
+- AI-powered applications and LLM integrations.
+- Automated development and deployment workflows.
 
-| Project        | Type                  | Link  |
-|----------------|-----------------------|-------|
-| **PropertyXHub**  | Property Management     | [propertyxhub.com](https://propertyxhub.com) |
-| **TrustMCL**      | Invoice Web App         | [trustmcl.com](https://trustmcl.com)           |
-| **DOB Skateshop** | Ecommerce Mobile App    | [dob.com.bd](https://dob.com.bd)                |
-| **CEA Alumni**    | Alumni Networking       | [ceaaust.com](https://ceaaust.com)              |
-| **AKR Online Shop** | Ecommerce             | [akronlineshop.com](https://akronlineshop.com) |
-| **PayX Hub**      | Tap-to-Pay App (Android) | [Play Store](https://play.google.com/store/apps/details?id=com.saithy.paymentxhub) |
-| **PayXBIC**       | White-label App (Android) | [Play Store](https://play.google.com/store/apps/details?id=com.paymentx.bic) |
-| **Invoice Maker** | iOS App                 | [App Store](https://apps.apple.com/om/app/best-invoice/id6736941437) |
-
-  </td>
-</tr>
-</table>
-
-
-## 📊 GitHub Activity
-
-<table>
-<tr>
-<td>
-  
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Zaynmiraj&show_icons=true&theme=dark&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Zaynmiraj&show_icons=true&theme=default&count_private=true&include_all_commits=true" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaynmiraj&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</picture>
-
-</td>
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Zaynmiraj&theme=default" alt="GitHub Streak" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynmiraj&theme=react-dark" alt="Activity Graph" />
-</td>
-</tr>
-<tr>
-<td>
-  <img src="https://github-profile-trophy.vercel.app/?username=Zaynmiraj&theme=flat&row=1&column=7" alt="Trophies" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynmiraj&layout=compact&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" />
-</td>
-</tr>
-</table>
+I'm passionate about transforming ideas into production-ready products.
 
 ---
 
-## 🌐 Connect with Me
+## Technical Expertise
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css" />
+</p>
+
+React.js · Next.js · Vue.js · JavaScript · TypeScript · Redux · Zustand
+
+### Mobile Application Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,android,apple,firebase" />
+</p>
+
+React Native · Expo · Android · iOS · Firebase · Push Notifications · In-App Purchases · App Store Connect · Google Play Console
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,python,fastapi,bun" />
+</p>
+
+Node.js · Bun.js · Express.js · NestJS · Laravel · Python · Django · FastAPI · REST APIs · Authentication · WebSockets
+
+### Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,redis" />
+</p>
+
+MongoDB · MySQL · PostgreSQL · Prisma ORM · Sequelize · Redis
+
+### DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,nginx,vercel,aws" />
+</p>
+
+Docker · GitHub Actions · CI/CD · Linux · Nginx · Vercel · Cloud Infrastructure · WHM · cPanel
+
+### AI & Emerging Technologies
+
+OpenAI API · LLM Integration · Model Context Protocol (MCP) · Retrieval-Augmented Generation (RAG) · AI Agents · Text-to-Speech · Machine Learning
+
+---
+
+## Featured Projects & Portfolio
+
+I work across multiple industries, building production-ready applications and digital platforms.
+
+### Web Applications & SaaS
+
+| Project | Description | Website |
+|---|---|---|
+| **PropertyXHub** | Property management platform | [Visit](https://propertyxhub.com) |
+| **TrustMCL** | Business invoicing and management application | [Visit](https://trustmcl.com) |
+| **DOB Skateshop** | E-commerce platform and mobile shopping experience | [Visit](https://dob.com.bd) |
+| **CEA Alumni** | Alumni networking and community platform | [Visit](https://ceaaust.com) |
+| **AKR Online Shop** | E-commerce and online shopping platform | [Visit](https://akronlineshop.com) |
+| **Penstoke** | SaaS product for productivity and digital workflows | [Visit](https://penstoke.com) |
+| **PayX Hub** | Payment and tap-to-pay ecosystem | [Visit](https://payx.org.uk) |
+
+### Mobile Applications
+
+| Product | Description | Platform |
+|---|---|---|
+| **TypeMate AI Keyboard** | AI-powered multilingual keyboard with an integrated AI assistant | [Android](https://play.google.com/store/apps/details?id=com.typemate.ai) · [iOS](https://apps.apple.com/us/app/typemate-ai-keyboard/id6824185770) |
+| **NoteCalc Pro** | Smart calculator and AI-powered notes application | [Android](https://play.google.com/store/apps/details?id=com.zaynmiraj.calmaster) · [iOS](https://apps.apple.com/app/notecalc-pro-al-smart-notes/id6828314694) |
+| **Safiora VPN** | VPN application powered by WireGuard technology | [Google Play](https://play.google.com/store/apps/details?id=com.safiora.vpn) |
+| **SportsNest** | Live sports and television streaming application | [Google Play](https://play.google.com/store/apps/details?id=com.sportsnest.app) |
+| **HelpsNest** | Utility platform for blood donation, doctors, hospitals, and emergency information | [Website](https://helpsnest.nimions.com/) |
+| **AI Utility Hub** | AI-powered productivity and utility tools | [Website](https://aiutilityhub.nimions.com/) |
+| **PayX BIC** | White-label payment application | [Google Play](https://play.google.com/store/apps/details?id=com.paymentx.bic) |
+| **PayX Tap-to-Pay** | Mobile payment application | [Google Play](https://play.google.com/store/apps/details?id=com.saithy.paymentxhub) |
+| **Invoice Maker** | Mobile invoice creation and management application | [App Store](https://apps.apple.com/om/app/best-invoice/id6736941437) |
+
+### Developer Tools & Open Source
+
+I also build tools to simplify development workflows and improve developer productivity.
+
+| Package | Description | Resource |
+|---|---|---|
+| **nim-redux-cli** | CLI to configure Redux Toolkit, RTK Query, and reducers across supported React projects | [NPM](https://www.npmjs.com/package/nim-redux-cli) |
+| **nim-nodex-init** | CLI to scaffold Node.js and Express applications | [NPM](https://www.npmjs.com/package/nim-nodex-init) |
+
+---
+
+## Product Engineering & Architecture
+
+Beyond writing code, I enjoy designing complete software systems.
+
+**My engineering focus includes:**
+
+- Mobile-first architecture with React Native and Expo.
+- Full-stack development with Next.js and Node.js.
+- Backend systems using Express, Bun.js, and Laravel.
+- Relational and NoSQL database architecture.
+- Secure authentication and authorization systems.
+- Payment gateway and subscription integrations.
+- Real-time communication and notification systems.
+- AI integration and intelligent application workflows.
+- CI/CD pipelines and production deployment.
+
+---
+
+## GitHub Statistics
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zaynmiraj&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Zayn Miraj GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynmiraj&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most Used Programming Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaynmiraj&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynmiraj&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" />
+</p>
+
+---
+
+## Currently Exploring
+
+- Advanced AI application development.
+- Large Language Models and OpenAI APIs.
+- Model Context Protocol (MCP).
+- Retrieval-Augmented Generation (RAG).
+- AI agents and automation.
+- Speech AI and custom Text-to-Speech systems.
+- Advanced iOS application development.
+- Scalable SaaS architectures.
+
+---
+
+## Let's Connect
+
+I'm always interested in collaborating on innovative products, engineering challenges, AI applications, and meaningful software projects.
+
+<p align="center">
+  <a href="https://zaynmiraj.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:zayn.miraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/zaynmiraj">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/zayn_miraj">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://instagram.com/zynmiraj">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/fedumiraj">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://zaynmiraj.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zaynmiraj">
+    <img src="https://img.shields.io/github/followers/Zaynmiraj?label=GitHub%20Followers&style=social" />
   </a>
 </p>
 
 ---
 
-> 💡 *"I build, scale and ship digital products with great performance and pixel-perfect design."*
+<p align="center">
+  <i>"Building meaningful digital products through engineering, innovation, and great user experiences."</i>
+</p>
+
+<p align="center">
+  <b>Designed & Built by Zayn Miraj</b>
+</p>
