@@ -155,9 +155,12 @@ I build and contribute to digital products across multiple industries. Here are 
 <tr>
 <td width="50%" valign="top">
 
-### PropertyXHub
+<p>
+  <img src="https://www.google.com/s2/favicons?domain=propertyxhub.com&sz=128" width="40" height="40" align="absmiddle" />
+  <strong> PropertyXHub</strong>
+</p>
 
-**Property Management Platform**
+<sub>Property Management Platform</sub>
 
 Property management and digital real estate solutions.
 
@@ -166,9 +169,12 @@ Property management and digital real estate solutions.
 </td>
 <td width="50%" valign="top">
 
-### TrustMCL
+<p>
+  <img src="https://www.google.com/s2/favicons?domain=trustmcl.com&sz=128" width="40" height="40" align="absmiddle" />
+  <strong> TrustMCL</strong>
+</p>
 
-**Business & Invoice Management**
+<sub>Business & Invoice Management</sub>
 
 A web-based business invoicing solution.
 
@@ -179,20 +185,26 @@ A web-based business invoicing solution.
 <tr>
 <td width="50%" valign="top">
 
-### DOB Skateshop
+<p>
+  <img src="https://www.google.com/s2/favicons?domain=dob.com.bd&sz=128" width="40" height="40" align="absmiddle" />
+  <strong> DOB Skateshop</strong>
+</p>
 
-**E-commerce Platform**
+<sub>E-commerce Platform</sub>
 
-Online shopping experience and mobile commerce.
+Online shopping and mobile commerce.
 
 <a href="https://dob.com.bd">Visit Website ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### CEA Alumni
+<p>
+  <img src="https://www.google.com/s2/favicons?domain=ceaaust.com&sz=128" width="40" height="40" align="absmiddle" />
+  <strong> CEA Alumni</strong>
+</p>
 
-**Alumni Networking Platform**
+<sub>Alumni Networking Platform</sub>
 
 Digital community and alumni networking.
 
@@ -203,9 +215,12 @@ Digital community and alumni networking.
 <tr>
 <td width="50%" valign="top">
 
-### AKR Online Shop
+<p>
+  <img src="https://www.google.com/s2/favicons?domain=akronlineshop.com&sz=128" width="40" height="40" align="absmiddle" />
+  <strong> AKR Online Shop</strong>
+</p>
 
-**E-commerce Platform**
+<sub>E-commerce Platform</sub>
 
 Online retail and shopping experience.
 
@@ -214,9 +229,12 @@ Online retail and shopping experience.
 </td>
 <td width="50%" valign="top">
 
-### Penstoke
+<p>
+  <img src="https://www.google.com/s2/favicons?domain=penstoke.com&sz=128" width="40" height="40" align="absmiddle" />
+  <strong> Penstoke</strong>
+</p>
 
-**SaaS Product**
+<sub>SaaS Product</sub>
 
 A productivity-focused software platform.
 
@@ -225,6 +243,7 @@ A productivity-focused software platform.
 </td>
 </tr>
 </table>
+
 
 ### Mobile Applications & Digital Products
 
