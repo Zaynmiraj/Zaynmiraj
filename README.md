@@ -126,6 +126,7 @@ OpenAI API · LLM Integration · AI Agents · Model Context Protocol (MCP) · Re
 
 ## 03 — Web Applications & SaaS
 
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -165,7 +166,7 @@ Online shopping platform and mobile commerce experience.
 </td>
 <td width="50%" valign="top">
 
-<p><img src="https://www.google.com/s2/favicons?domain=ceaaust.com&sz=64" width="32" height="32" alt="CEA Alumni favicon" /> <strong>CEA Alumni</strong></p>
+<p><img src="https://placehold.co/64x64/202938/FFFFFF.png?text=CEA" width="32" height="32" alt="CEA Alumni placeholder icon" /> <strong>CEA Alumni</strong></p>
 
 <sub>ALUMNI NETWORKING</sub>
 
@@ -178,7 +179,7 @@ Digital alumni community and networking platform.
 <tr>
 <td width="50%" valign="top">
 
-<p><img src="https://www.google.com/s2/favicons?domain=akronlineshop.com&sz=64" width="32" height="32" alt="AKR Online Shop favicon" /> <strong>AKR Online Shop</strong></p>
+<p><img src="https://placehold.co/64x64/202938/FFFFFF.png?text=AKR" width="32" height="32" alt="AKR Online Shop placeholder icon" /> <strong>AKR Online Shop</strong></p>
 
 <sub>E-COMMERCE PLATFORM</sub>
 
@@ -224,6 +225,7 @@ Connected wellness and guided acupressure experience.
 </td>
 </tr>
 </table>
+
 
 ### Additional product & client engineering
 
