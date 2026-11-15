@@ -380,6 +380,19 @@ Mobile application for shared living.
 [Google Play](https://play.google.com/store/apps/details?id=com.flatly)
 
 </td>
+<td align="center" valign="top">
+
+<img src="https://play-lh.googleusercontent.com/_KpC1qQd4l20mh45y4nGEfK9juNNZhdv7gAPQSwls-ETvu1zgGl5bfsf1oqTVqg51mnTFBRDrN66z9m-d2KRvQ=w480-h960-rw" width="76" height="76" alt="Acusolo app icon" />
+
+**Acusolo**
+
+<sub>Personal Wellness</sub>
+
+Acusolo - Your Personal Wellness Companion
+
+[Google Play](https://play.google.com/store/apps/details?id=com.acusolo) .[App Store](https://apps.apple.com/us/app/acusolo/id6752572113)
+
+</td>
 <td colspan="2" valign="middle">
 
 **More digital products**
