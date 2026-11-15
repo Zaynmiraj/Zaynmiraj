@@ -491,11 +491,6 @@ CLI scaffolding tool for creating Node.js and Express application foundations.
 
 ## 07 — GitHub Analytics
 
-
-
-<!-- 07 — GITHUB ANALYTICS -->
-
-<h2>07 — GitHub Analytics</h2>
 <p><sub>OPEN SOURCE · CONTRIBUTIONS · ENGINEERING ACTIVITY</sub></p>
 
 <div align="center">
