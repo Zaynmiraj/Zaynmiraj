@@ -230,126 +230,109 @@ A productivity-focused software platform.
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### TypeMate AI Keyboard
-
-**AI-Powered Mobile Keyboard**
-
-A multilingual AI keyboard with an integrated AI assistant, intelligent writing tools, and productivity features.
-
-<a href="https://typemate.nimions.com">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.typemate.ai">Android</a> · <a href="https://apps.apple.com/us/app/typemate-ai-keyboard/id6824185770">iOS</a>
-
+<td align="center" width="33%">
+<a href="https://play.google.com/store/apps/details?id=com.typemate.ai">
+<img src="https://play-lh.googleusercontent.com/z4i8msoqJ0VzdrM8NsAgv-Dv-81z8XsCQ4W7LH84MY6Gp3NR5wL7SVLug8v-zVYJQDrfabQAQofBM41mtTlaQg=w240" width="110" alt="TypeMate AI"/>
+</a>
+<br/>
+<b>TypeMate AI</b>
+<br/>
+<sub>AI Keyboard</sub>
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.typemate.ai">Google Play</a> · <a href="https://apps.apple.com/us/app/typemate-ai-keyboard/id6824185770">App Store</a>
 </td>
-<td width="50%" valign="top">
 
-### NoteCalc Pro
-
-**AI Smart Notes & Calculator**
-
-A productivity application combining calculation and smart note-taking capabilities.
-
-<a href="https://notecalc.nimions.com">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.zaynmiraj.calmaster">Android</a> · <a href="https://apps.apple.com/app/notecalc-pro-al-smart-notes/id6828314694">iOS</a>
-
+<td align="center" width="33%">
+<a href="https://play.google.com/store/apps/details?id=com.zaynmiraj.calmaster">
+<img src="https://play-lh.googleusercontent.com/_OggRy4wcYiHqCK2siJ82FbIvcTpqsQgLm9qqJO0mtYwAKlCxco-c4aV_De3cq-YPxBgqv13C1roPj2X01dLDg=w240" width="110" alt="NoteCalc Pro"/>
+</a>
+<br/>
+<b>NoteCalc Pro</b>
+<br/>
+<sub>Smart Notes & Calculator</sub>
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.zaynmiraj.calmaster">Google Play</a> · <a href="https://apps.apple.com/app/notecalc-pro-al-smart-notes/id6828314694">App Store</a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### Safiora VPN
-
-**VPN & Privacy Application**
-
-A mobile VPN application featuring WireGuard-based connectivity and subscription plans.
-
-<a href="https://play.google.com/store/apps/details?id=com.safiora.vpn">Google Play ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-### SportsNest
-
-**Sports & Entertainment**
-
-A mobile streaming application for sports and television entertainment.
-
-<a href="https://play.google.com/store/apps/details?id=com.sportsnest.app">Google Play ↗</a>
-
+<td align="center" width="33%">
+<a href="https://play.google.com/store/apps/details?id=com.safiora.vpn">
+<img src="https://play-lh.googleusercontent.com/po4nV9nEYcTgED9XS-UqlkQkX9UhrVH_pPdE1_Wp29mG-3v_PslX-13xjK_NzsepdWe8-WYrU-KNzwuBdohumuM=w240" width="110" alt="Safiora VPN"/>
+</a>
+<br/>
+<b>Safiora VPN</b>
+<br/>
+<sub>Privacy & Security</sub>
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.safiora.vpn">Google Play</a>
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
-
-### HelpsNest
-
-**Healthcare & Emergency Utility**
-
-A utility platform for blood donation, doctor discovery, hospitals, and emergency information.
-
-<a href="https://helpsnest.nimions.com">Website ↗</a>
-
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.sportsnest.app">
+<img src="https://play-lh.googleusercontent.com/g14ksCh1iZdDrFx8qbd56202UhQ3E3durL4bT8qoeL1F1B5fTZSJKfXD0lD6e4oSrqdq85fpBjhuc6u4rXymmNo=w240" width="110" alt="SportsNest"/>
+</a>
+<br/>
+<b>SportsNest</b>
+<br/>
+<sub>Live TV & Sports</sub>
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.sportsnest.app">Google Play</a>
 </td>
-<td width="50%" valign="top">
 
-### AI Utility Hub
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.nimions.utilityhub">
+<img src="https://play-lh.googleusercontent.com/jLXmdY9lnlPVP8gPW_8eBLbVnN1Vnvh3VPXgOeECP0hitowkHgvG_hzR4WFxqxQoQHiNs17XSJ_veQ8Nj7T2=w240" width="110" alt="AI Utility Hub"/>
+</a>
+<br/>
+<b>AI Utility Hub</b>
+<br/>
+<sub>AI Productivity</sub>
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.nimions.utilityhub">Google Play</a>
+</td>
 
-**AI Productivity Platform**
-
-A collection of AI-powered tools and productivity utilities.
-
-<a href="https://aiutilityhub.nimions.com">Website ↗</a>
-
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.helpsnest.community">
+<img src="https://play-lh.googleusercontent.com/TlWWdhf-D-341-7AJmqmI0URc5Kq4onviuRyAuyYh9bNmnWM-d6sQkzDJf4vGmBO8FHHMcM0BQzLynILY9JT=w240" width="110" alt="HelpsNest"/>
+</a>
+<br/>
+<b>HelpsNest</b>
+<br/>
+<sub>Healthcare & Community</sub>
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.helpsnest.community">Google Play</a>
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
-
-### PayX Hub
-
-**FinTech & NFC Payments**
-
-A mobile payment solution focused on contactless Tap-to-Pay technology.
-
-<a href="https://payx.org.uk">Website</a> · <a href="https://play.google.com/store/apps/details?id=com.saithy.paymentxhub">Android</a>
-
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.saithy.paymentxhub">
+<img src="https://play-lh.googleusercontent.com/XkxHnbofBsE2W8HFGvzaR73p4W2LP9UJqxwyvXwlFjfnIhgj8CVNn4RiTgqwrWSZoMRseh_cbkhm7OK8SSCFKCo=w240" width="110" alt="PayX Hub"/>
+</a>
+<br/>
+<b>PayX Hub</b>
+<br/>
+<sub>Tap-to-Pay</sub>
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.saithy.paymentxhub">Google Play</a>
 </td>
-<td width="50%" valign="top">
 
-### PayX BIC
-
-**White-Label FinTech Application**
-
-A branded mobile payment solution.
-
-<a href="https://play.google.com/store/apps/details?id=com.paymentx.bic">Google Play ↗</a>
-
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.paymentx.bic">
+<img src="https://play-lh.googleusercontent.com/DuSNDZRdMxYgu8NlIc0LRZJVMRrJdAOq3DR2GXsUPl3O85jvkivtM74-CURsbJsfFwg=w240" width="110" alt="PayX BIC"/>
+</a>
+<br/>
+<b>PayX BIC</b>
+<br/>
+<sub>FinTech Application</sub>
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.paymentx.bic">Google Play</a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Invoice Maker
-
-**iOS Productivity Application**
-
-Mobile invoice creation and management.
-
-<a href="https://apps.apple.com/om/app/best-invoice/id6736941437">App Store ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Additional Product Work
-
-**Multi-industry Development**
-
-E-commerce, community applications, healthcare, payment integrations, and productivity products.
-
-<a href="https://zaynmiraj.com">Explore Portfolio ↗</a>
-
-</td>
+<td></td>
 </tr>
 </table>
+
 
 ---
 
